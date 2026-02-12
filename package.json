@@ -1,0 +1,1 @@
+{\n  "name": "team-fenix-app",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "dependencies": {\n    "react": "^17.0.2",\n    "react-dom": "^17.0.2",\n    "firebase": "^8.6.1"\n  },\n  "devDependencies": {\n    "vite": "^2.4.4"\n  }\n}
